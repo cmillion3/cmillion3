@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmillion3
-- 👀 I’m interested in major coding languages and web developement
+- 👀 I’m interested in major coding languages, web developement and software engineering
 - 🌱 I’m currently learning python
 - 📫 How to reach me email me code.camy@gmail.com
 <!---
