@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmillion3
 - 👀 I’m interested in major coding languages, web developement and software engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working on 2D RPG game
 - 📫 How to reach me email me code.camy@gmail.com
 <!---
 cmillion3/cmillion3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
