@@ -14,9 +14,6 @@ I'm **Cameron**, a software engineer based in New Jersey.
 - **Systems:** Linux (Arch), MacOS, Windows 10 (never 11)
 - **Interests:** System administration, game modding, web development, desktop apps, ios apps
 
-### 📊 GitHub Stats
-
-![cmillion3's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmillion3&show_icons=true&theme=radical)
 
 ### 🌐 Connect With Me
 - 📧 Email: code.camy@gmail.com
