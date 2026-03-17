@@ -7,19 +7,17 @@ I'm **Cameron**, a software engineer based in New Jersey.
 - 💻 Software Engineering & Development
 - 🎮 Gaming enthusiast (RPGs, Hero Shooters, Survival Games)
 - 📸 Photography hobbyist
-- 🤖 AI & Machine Learning exploration
+- 🤖 Studying AI and Machine Learning at the Higher ed Level
 
 ### 🔧 Tech Stack
-- **Languages:** C++, Python, Rust, Javascript
+- **Languages:** C++, Python, Rust, Swift, no javascript please.
 - **Systems:** Linux (Arch), MacOS, Windows 10 (never 11)
-- **Interests:** System administration, game modding, web development, desktop apps, ios apps
+- **Interests:** Desktop Apps, Ios Apps
 
 
 ### 🌐 Connect With Me
 - 📧 Email: code.camy@gmail.com
 - Linkedin: https://www.linkedin.com/in/cmillion/
-- 💼 Open to opportunities - I'm hireable!
-- 📍 Based in NJ
 
 <!---
 cmillion3/cmillion3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
