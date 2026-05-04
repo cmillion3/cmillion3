@@ -17,7 +17,7 @@ I'm **Cameron**, a software engineer based in New Jersey.
 
 ### 🌐 Connect With Me
 - 📧 Email: code.camy@gmail.com
-- Linkedin: https://www.linkedin.com/in/cmillion/
+~- Linkedin: https://www.linkedin.com/in/cmillion/~ I stopped using this because it's for chuds. 
 
 <!---
 cmillion3/cmillion3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
