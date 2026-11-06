@@ -11,7 +11,7 @@ I'm **Cameron**, a software engineer based in New Jersey.
 
 ### 🔧 Tech Stack
 - **Languages:** C++, Python, Rust, Swift, Javascript
-- **Systems:** Linux (Arch), MacOS, Windows 10 (never 11)
+- **Systems:** Linux (Arch), MacOS, Windows
 - **Interests:** Desktop Apps, Ios Apps
 
 
