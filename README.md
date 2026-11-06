@@ -10,7 +10,7 @@ I'm **Cameron**, a software engineer based in New Jersey.
 - 🤖 Studying AI and Machine Learning at the Higher ed Level
 
 ### 🔧 Tech Stack
-- **Languages:** C++, Python, Rust, Swift, no javascript please.
+- **Languages:** C++, Python, Rust, Swift, Javascript
 - **Systems:** Linux (Arch), MacOS, Windows 10 (never 11)
 - **Interests:** Desktop Apps, Ios Apps
 
